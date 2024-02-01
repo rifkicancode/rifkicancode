@@ -1,4 +1,4 @@
-### 👋🌍 Hello, I'm Rifki. ![](https://komarev.com/ghpvc/?username=rifkicancode&abbreviated=true)
+### 👋🌍 Hello, I'm Rifki.
 
 Developer from @h0fgames.
 
