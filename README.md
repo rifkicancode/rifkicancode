@@ -8,7 +8,7 @@ Developer from @h0fgames.
 
 I am currently working on game projects using Unity and Godot. Additionally, I am developing servers for Grand Theft Auto (GTA) across various platforms, including SA, FiveM, and MTA.
 
-I have knowledge of several programming languages ​​which I will list below.
+I have knowledge of several programming languages and tools that I use. Here is the list:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ronaldo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
