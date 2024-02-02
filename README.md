@@ -23,6 +23,8 @@ I have knowledge of several programming languages and tools that I use. Here is 
   <img align="center" alt="Ronaldo" height="30" width="80" src="https://godotengine.org/assets/press/logo_small_color_light.png">
   
 
+  <img align="center" alt="Ronaldo" height="34" width="34" src="https://avatars.githubusercontent.com/u/2521172?s=200&v=4">
+  <img align="center" alt="Ronaldo" height="34" width="34" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg">
   <img align="center" alt="Ronaldo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Ronaldo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
   <img align="center" alt="Ronaldo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
